@@ -1,0 +1,7 @@
+name: SampleSpigotPlugin
+version: ${version}
+main: com.acclash.samplespigotplugin.SampleSpigotPlugin
+api-version: '1.21'
+authors: [ Anston_Sorensen ]
+description: A sample spigot plugin that can always be referred to
+website: www.acclash.com
